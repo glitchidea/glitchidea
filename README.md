@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <div align="center">
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=GlitchIdea&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Ethical%20Hacking&descAlignY=51&descAlign=50">
@@ -42,42 +40,6 @@ print(hacker.hack_the_planet())
 
 ---
 
-## 🛡️ EXPERTISE AREAS
-
-### 🔴 Offensive Security
-
-- 🎯 Penetration Testing
-    
-- 🕷️ Web Application Security
-    
-- 🌐 Network Security Assessment
-    
-- 📱 Mobile App Penetration Testing
-    
-- 🦠 Malware Development (Educational)
-    
-- ⚡ Exploit Development
-    
-- ✍️ Technical Blogging on Medium
-    
-
-### 🔵 Defensive Security
-
-- 🛡️ Incident Response
-    
-- 🔍 Threat Hunting
-    
-- 📊 Security Monitoring
-    
-- 🚨 SIEM Implementation
-    
-- 🔐 Cryptographic Solutions
-    
-- 🧬 Digital Forensics
-    
-
----
-
 ## 🔧 ARSENAL & TOOLS
 
 ### Languages & Frameworks
@@ -97,7 +59,7 @@ print(hacker.hack_the_planet())
 
 ## 📊 **CYBER STATISTICS**
 
-<div align="center"> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=glitchidea&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchidea&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchidea&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak"/> </div>
+ <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchidea&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak"/> </div>
 
 ---
 
@@ -148,17 +110,8 @@ print(hacker.hack_the_planet())
 
 ---
 
-## 📈 **CONTRIBUTION MATRIX**
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=glitchidea&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41" width="100%"/> </div> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glitchidea&theme=github_dark" width="100%"/> </div>
 
----
-
-## 🏆 **HALL OF FAME**
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=glitchidea&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/> </div>
-
----
 
 <div align="center">
 
