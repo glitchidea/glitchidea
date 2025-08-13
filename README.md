@@ -55,11 +55,7 @@ print(hacker.hack_the_planet())
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-87CEEB?style=for-the-badge&logo=parrotsecurity&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)
 
----
 
-## 📊 **CYBER STATISTICS**
-
- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchidea&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak"/> </div>
 
 ---
 
