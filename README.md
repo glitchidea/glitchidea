@@ -59,12 +59,6 @@ print(hacker.hack_the_planet())
 
 ---
 
-## 🚀 **SECURITY PROJECTS**
-
-<div align="center"> <a href="https://github.com/glitchidea/LockVault"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=glitchidea&repo=LockVault&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" /> </a> <a href="https://github.com/glitchidea/NoteVault"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=glitchidea&repo=NoteVault&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" /> </a> <a href="https://github.com/glitchidea/VaultManager"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=glitchidea&repo=VaultManager&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" /> </a> </div>
-
----
-
 ## 🎖️ **ACHIEVEMENTS & RECOGNITION**
 
 <div align="center">
