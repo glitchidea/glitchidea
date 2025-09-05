@@ -6,3 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Cybersecurity;⚡+Python+Security+Developer;⚡+Django+%26+Flask+Developer;⚡+Penetration+Tester;&font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100">
 </div>
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/I_use-Arch_btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+</div>
