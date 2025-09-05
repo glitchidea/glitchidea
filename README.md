@@ -1,110 +1,44 @@
-
 <div align="center">
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=GlitchIdea&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Ethical%20Hacking&descAlignY=51&descAlign=50">
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=GlitchIdea&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Web%20Security%20%7C%20Backend%20Development&descAlignY=51&descAlign=50">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Cybersecurity;⚡+Python+Security+Developer;⚡+Django+%26+Flask+Developer;⚡+Penetration+Tester;⚡+Ethical+Hacker;&font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Backend+Security+Developer;⚡+Django+Developer;⚡+Web+Security+Specialist;⚡+Python+Developer;⚡+Linux+%26+Windows+Expert;&font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100">
 </div>
 
-## 🎯 Cybersecurity Expert
-
-```bash
-┌─[glitchidea@arch]─[~]
-└──╼ $ whoami && cat /etc/os-release
-````
-
-```python
-#!/usr/bin/env python3
-
-class CybersecurityExpert:
-    def init(self):
-        self.name = "GlitchIdea"
-        self.role = "Cybersecurity Specialist & Ethical Hacker"
-        self.expertise = {
-            "penetration_testing": ["Web Apps", "Networks"],
-            "vulnerability_assessment": ["OWASP Top 10", "CVE Analysis"],
-            "web_development": ["HTML5", "CSS3", "JavaScript", "Django", "Flask"],
-            "threat_hunting": ["Malware Analysis", "IOC Detection"],
-            "cryptography": ["AES", "RSA", "Hash Functions"],
-            "forensics": ["Digital Evidence", "Memory Analysis"]
-        }
-        self.certifications = ["CEH", "OSCP", "CISSP"]  # Planning
-        
-    def hack_the_planet(self):
-        return "🌍 Ethical hacking for a safer digital world! 🔒"
-
-hacker = CybersecurityExpert()
-print(hacker.hack_the_planet())
-```
-
----
-
-## 🔧 ARSENAL & TOOLS
-
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Security Tools
-
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-### Operating Systems
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-87CEEB?style=for-the-badge&logo=parrotsecurity&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)
-
-
-
----
-
-## 🎖️ **ACHIEVEMENTS & RECOGNITION**
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <h3>Core Skills</h3>
+      <div>
+        <img src="https://img.shields.io/badge/🔒-Web_Security-red?style=flat-square"/>
+        <img src="https://img.shields.io/badge/🐍-Python_Backend-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/🌐-Django_Development-blue?style=flat-square"/>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <h3>Focus Areas</h3>
+      <div>
+        <img src="https://img.shields.io/badge/🛡️-Application_Security-purple?style=flat-square"/>
+        <img src="https://img.shields.io/badge/💻-Backend_Development-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/🔍-Security_Testing-yellow?style=flat-square"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
+  <h3>Tech Stack</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=shield&logoColor=white"/>
+  </p>
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/glitchidea) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/glitchidea) [![BugCrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/glitchidea) [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/glitchidea)
-
-</div>
-
----
-
-## 🌐 **CYBER ACTIVITY GRAPH**
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=glitchidea&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="100%"/> </div>
-
----
-
-## 🌐 **DIGITAL PRESENCE**
-
-<div align="center">
-
-### 📝 **Blog & Portfolio**
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://glitchidea.dev/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@glitchidea) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio.glitchidea.dev/)
-
-</div>
-
----
-
-
-
-
-<div align="center">
-
-### 🔒 **"Security is not a product, but a process"** 🔒
-
-<img src="https://komarev.com/ghpvc/?username=glitchidea&label=TARGET%20ACQUIRED&color=00ff41&style=for-the-badge" alt="Profile Views" />
-
-```ascii
- ██████╗ ██╗     ██╗████████╗ ██████╗██╗  ██╗    ██╗██████╗ ███████╗ █████╗ 
-██╔════╝ ██║     ██║╚══██╔══╝██╔════╝██║  ██║    ██║██╔══██╗██╔════╝██╔══██╗
-██║  ███╗██║     ██║   ██║   ██║     ███████║    ██║██║  ██║█████╗  ███████║
-██║   ██║██║     ██║   ██║   ██║     ██╔══██║    ██║██║  ██║██╔══╝  ██╔══██║
-╚██████╔╝███████╗██║   ██║   ╚██████╗██║  ██║    ██║██████╔╝███████╗██║  ██║
- ╚═════╝ ╚══════╝╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝    ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
-**⚡ "Hack The Planet, Secure The Future" ⚡**
-
+  <br>
+  <code>"Securing the backend, one line of code at a time"</code>
+  <br><br>
+  <img src="https://img.shields.io/badge/I_use-Arch_btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 </div>
